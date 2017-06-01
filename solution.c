@@ -1,3 +1,4 @@
+//Создаем вид бурной деятельности
 int stringStat(const char *string, int multiplier, int *count)
 {
 	int len = 0;
