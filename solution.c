@@ -1,4 +1,4 @@
-//Создаем вид бурной деятельности
+//Тест branch1
 int stringStat(const char *string, int multiplier, int *count)
 {
 	int len = 0;
